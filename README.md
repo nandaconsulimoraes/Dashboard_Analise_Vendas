@@ -49,3 +49,6 @@ Durante o desenvolvimento do projeto foram aplicados conceitos de:
 - Gráficos de dispersão;
 - Linha de tendência;
 - Interpretação de resultados.
+
+## 📚 Link do dashboard
+https://nandaconsulimoraes-dashboard-analise-vendas-dashboard-qtczwk.streamlit.app/
